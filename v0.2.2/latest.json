@@ -1,0 +1,15 @@
+{
+  "version": "0.2.2",
+  "notes": "Google sign-in opens in your browser. Login page first, no device check up front. New Mac icon.",
+  "pub_date": "2026-11-23T08:15:37Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMmVYbnM2aVlLWUhvMTh6dXcxVFQ0UnpZdXJ0bzRqTVJuUkFORDBhUEhYOTI2Z1NqUHFuL1U1V2VIWTZvK1Z1MTZXNVVydjF1Z2JjL1VQd0RTcTdtQkNZZGZtV0ZmTHdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDIxNTAzCWZpbGU6VGFwVGFwLmFwcC50YXIuZ3oJdmVyc2lvbjowLjIuMgp0UlB2c0prVE9JSDUzUGhBSzZkZzFLQVFVbENGa1N0N3BPeGlSZWNMSisveHNraS9JWXpEcC9GQ1JDeTVlVk9leUgweGZhYnY3TzZ4SDYrb3FmeXVDdz09Cg==",
+      "url": "https://github.com/Blackbucks-Education/taptap_desktop_updater/releases/download/v0.2.2/TapTap_0.2.2_aarch64.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMmVYbnM2aVlLWURPdVNlWWMzQUdrZXl2RG1yMDNwRmF5dXpwZkowSmhSeWN6QzQxV0JPZUpTUVFwekFsS2lvRXNBUDVZRGtZUHB5UElOSC9PRFBJOUFMSHY2Vm93VkE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDIxNzE1CWZpbGU6VGFwVGFwXzAuMi4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMgpYSENsWTVsRVFsQjRHS1NocHZhQTFIWlVCNUNBWVdzRW1ZU3hLL3RQRktEK1pIRWlKMXdEMmRscFhzK1MrV3hsVmkrQkxuVklTTGNrTkt2OXRUOHBCQT09Cg==",
+      "url": "https://github.com/Blackbucks-Education/taptap_desktop_updater/releases/download/v0.2.2/TapTap_0.2.2_x64-setup.exe"
+    }
+  }
+}
