@@ -1,0 +1,15 @@
+{
+  "version": "0.3.0",
+  "notes": "Beta build with faster code runs and sign-in improvements.",
+  "pub_date": "2026-11-24T11:03:41Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMmVYbnM2aVlLWUxmLzVkS3RKRnBmSnBlZE9TV2VZbFIrL3VRY1RyekJ0SkdzS2xVZ0NxM1BjYW1XK2tWd1U5dHhLdUk2aW52ODBUdGRhbHAzc2ZIOHliV0lQYTVxdlFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTE3ODEwCWZpbGU6VGFwVGFwLmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuMAp4a0JMQ3hzdUp2K1RXdXc3bGlXTGU1ZGlYUXFEZDRaMjFnNmZBUG5LbTdXeUM4MTlEaU4yTE96ektPSEZVdHRONFBpaGhaOTRDbnFDdnJyaEFaMEtEZz09Cg==",
+      "url": "https://github.com/Blackbucks-Education/taptap_desktop_updater/releases/download/v0.3.0/TapTap_0.3.0_aarch64.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMmVYbnM2aVlLWUdVK2VjeVAzUEZoWUxTUkk5ZGtsRWUvS2dUcEtIZ2FBMXl2a0E3R0pBMVJyeVU0a0RlMnQzUTlla3lMQVVKUGJsSXllbHdNMWpZREpwZ3hmYitsandNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTE4MTkwCWZpbGU6VGFwVGFwXzAuMy4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMAptYlA5TGdjOTJJSzNVTHN4eVUxLzNhc25Jdjd1TW5zTDBuRHQxYkdoKzhpZ1dWRkZ4cXNSZFllSjhOT1VNcS9KdS9DbzM3ZGVvWWVpeEhHNkh2ZVJBUT09Cg==",
+      "url": "https://github.com/Blackbucks-Education/taptap_desktop_updater/releases/download/v0.3.0/TapTap_0.3.0_x64-setup.exe"
+    }
+  }
+}
