@@ -18,7 +18,9 @@ The app isn't signed with a paid Apple or Microsoft certificate yet, so both sys
 ### Windows
 
 1. Run the `.exe` you downloaded.
-2. Windows shows **"Windows protected your PC"**. Click **More info**, then **Run anyway**.
+2. Windows shows **"Windows protected your PC"**. Click **More info**, then **Run anyway**. This only happens on the first install; updates don't show it.
+
+   <img src="images/windows-run-anyway.png" alt="Windows protected your PC: click Run anyway" width="420">
 3. Finish the installer. It installs for your user only, so no admin password is needed.
 4. On first launch TapTap shows a **Device check** screen. There's no popup on Windows: TapTap uses the camera and mic directly, and the screen shows ✓ when both work.
 
